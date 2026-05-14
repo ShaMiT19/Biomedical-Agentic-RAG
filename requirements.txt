@@ -1,0 +1,11 @@
+langgraph
+streamlit
+python-dotenv
+langchain-openai
+langchain-community
+langchain-core
+langchain-tavily
+requests
+pydantic
+faiss-cpu
+tavily-python
